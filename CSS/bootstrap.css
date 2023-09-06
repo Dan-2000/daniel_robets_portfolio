@@ -9026,29 +9026,5 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
-  .contains{ display:inline-block; }
-
-.text {
-font-size: 5em;
-font-family: monospace;
-color:#fff;
-letter-spacing: 10px;
-border-right: 5px solid;
-width: 100%;
-white-space: nowrap;
-overflow: hidden;
-animation:
-  typing 2s steps(8),
-  cursor .4s step-end infinite alternate;
 }
-/*cursor blinking */
-@keyframes cursor{
-  50% {border-color: transparent}
-}
-/*typing effect */
-@keyframes typing{
-  from {width:0}
-}
-}
-
 /*# sourceMappingURL=bootstrap.css.map */
