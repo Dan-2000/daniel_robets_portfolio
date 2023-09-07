@@ -6,12 +6,11 @@
   align-items: center;
   font-size: 136px;
   color: hsl(0, 0%, 100%);
-  -webkit-text-stroke: 3px rgb(0, 252, 0) ;
+  -webkit-text-stroke: 3px rgb(0, 255, 0) ;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
 }
 
 .text {
